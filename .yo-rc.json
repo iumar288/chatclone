@@ -1,0 +1,27 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "baseName": "chatclone",
+    "buildTool": "maven",
+    "cacheProvider": "hazelcast",
+    "clientFramework": null,
+    "clientPackageManager": null,
+    "clientTheme": null,
+    "creationTimestamp": 1732120580455,
+    "databaseType": "sql",
+    "enableHibernateCache": false,
+    "enableTranslation": false,
+    "entities": [],
+    "jhipsterVersion": "8.7.3",
+    "jwtSecretKey": "ZDBiOWJmMWFhYjdjNGE0OTIyYjliZDljZDFiNjY0YjBhMjQwY2VlODY2YTI4ZWYzZTA5YjkxZjFhYTUwNjJiNGIwOGZlZWM1OTYxNmZlYjIwZWJkNjU2NzkyM2QzYWQzNWQ0YmJmMzZlZTkxNmVhNDkxMDE1MzRhYWRmYjk5YTM=",
+    "microfrontend": false,
+    "nativeLanguage": "en",
+    "otherLanguages": null,
+    "reactive": false,
+    "serviceDiscoveryType": "consul",
+    "skipClient": true,
+    "skipUserManagement": true,
+    "testFrameworks": ["cucumber"],
+    "websocket": null
+  }
+}
